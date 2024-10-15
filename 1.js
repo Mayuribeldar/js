@@ -1,3 +1,4 @@
 //functions in JS
 
-TEST
+console.log(4+4)
+
