@@ -87,13 +87,13 @@ let x1 = 10
 let x2 = 50
 let x3 = 200
 
-
-if(x1 > x2 && x1 > x3){
-    console.log("x1 is greater")
+if(x1 > x2 && x1 > x3)
+{
+console.log("x1 is greater")
 }
 else if(x2 > x1 && x2 > x3){
-    console.log("x2 is greater")
+console.log("x2 is greater")
 }
 else {
-    console.log("x3 is greater")
+console.log("x3 is greater")
 }

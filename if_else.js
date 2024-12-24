@@ -16,9 +16,8 @@ if(m1 == n)
 {
 console.log("pallindrom")
 }
-
 else
 {
- console.log("not palindrome")
-
+console.log("not palindrome")
 }
+
